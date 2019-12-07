@@ -3,3 +3,4 @@ C:\Users\LaptopAZ.vn\source\repos\QualityTest\QualityTest\bin\Debug\QualityTest.
 C:\Users\LaptopAZ.vn\source\repos\QualityTest\QualityTest\bin\Debug\QualityTest.pdb
 C:\Users\LaptopAZ.vn\source\repos\QualityTest\QualityTest\obj\Debug\QualityTest.exe
 C:\Users\LaptopAZ.vn\source\repos\QualityTest\QualityTest\obj\Debug\QualityTest.pdb
+C:\Users\LaptopAZ.vn\source\repos\QualityTest\QualityTest\obj\Debug\QualityTest.csprojAssemblyReference.cache

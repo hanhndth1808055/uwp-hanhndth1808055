@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QualityTest.Controllers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +9,13 @@ namespace QualityTest
 {
     class Program
     {
+        public static StudentController studentController = new StudentController();
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            for(; ; )
+            {
+                studentController.GenerateMenu();
+            }
         }
     }
 }
